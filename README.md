@@ -6,5 +6,7 @@ Codigo Interactivo y didactico para aprender sobre programacion orientada a obje
 
 
 
-https://user-images.githubusercontent.com/108318001/179649815-bb6dedca-c681-402c-b7ae-b84745087c98.mp4
+
+
+https://user-images.githubusercontent.com/108318001/179650275-827ce3b7-1fb0-4f4f-88fe-ebeff1e2864d.mp4
 
