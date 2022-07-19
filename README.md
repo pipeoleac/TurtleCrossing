@@ -1,6 +1,12 @@
 # TurtleCrossing
 Codigo Interactivo y didactico para aprender sobre programacion orientada a objetos en python
 
+A medida que se logra cruzar, aumenta el nivel, a mas nivel, mas rapido pasan los autos
+
+PASO 1) Git clone
+
+PADO 2) Run
+
 
 
 
